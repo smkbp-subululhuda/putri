@@ -30,7 +30,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
     <div class="login-logo">
-        <a href="index2.html"><b>📔 Putri</b>LTE</a>
+        <a href="landing"><b>📔 Putri</b>LTE</a>
     </div>
     <!-- /.login-logo -->
     <div class="login-box-body">
